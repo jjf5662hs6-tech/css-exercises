@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+p {
+    background-color: hwb(329 58% 5% / 0.925);
+    font-family: Verdana, dejaVu Sans, sans-serif;
+}
+
+.color {
+    color: blue;
+    font-size: 36px;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
